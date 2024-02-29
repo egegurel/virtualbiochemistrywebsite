@@ -22,13 +22,6 @@ async function main() {
 }
 
 
-// MONGO TILL HERE
-// MONGO TILL HERE
-// MONGO TILL HERE
-// MONGO TILL HERE
-// MONGO TILL HERE
-// MONGO TILL HERE
-// MONGO TILL HERE
 
 document.addEventListener("DOMContentLoaded", function() {
     var test2 = document.getElementById("registerr");
